@@ -1,4 +1,3 @@
-![logo](https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_an_Android_Developer.jpg)
 <h1 align="center">Hi 👋, I'm Nishal</h1>
 <h3 align="center">A passionate full stack android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=790b761156823e912a423769146e717149dfa9fb84fbcd22&rid=giphy.gif&ct=g">
