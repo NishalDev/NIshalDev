@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to My Profile</h1>
-<h3 align="center">I'm Nishal, a dedicated software developer from India.</h3>
+<h1 align="center">Welcome, Fellow Tech Explorers!</h1>
+<h3 align="center">I'm Nishal, a tech enthusiast on a mission to turn ideas into reality!</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=790b761156823e912a423769146e717149dfa9fb84fbcd22&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishaldev&label=Profile%20views&color=0e75b6&style=flat" alt="nishaldev" /> </p>
