@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishaldev&label=Profile%20views&color=0e75b6&style=flat" alt="nishaldev" /> </p>
 
-- 🔭 I’m currently working on **Some project!**
-
-- 🌱 I’m currently learning **Kotlin, Java and C languages**
-
-- 💬 Ask me about **Coding :)**
-
-- 📫 How to reach me **nishaldevadiga2003@gmail.com**
+- 🔭 Currently working on a major project focused on developing scalable web application.
+- 🌱 Expanding my expertise in Data Structures & Algorithms (DSA) with Java and the MERN stack, including Node.js and React.
+- 💬 Feel free to ask me about API debugging or best practices in web development.
+- 🚀 Aspiring to contribute to open-source projects and enhance my problem-solving skills.
+- 📫 You can reach me at nishaldevadiga2003@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
