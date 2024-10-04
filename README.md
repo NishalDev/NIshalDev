@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishaldev&label=Profile%20views&color=0e75b6&style=flat" alt="nishaldev" /> </p>
 
-- 🔭 Currently working  a major project focused on developing scalable web application.
+- 🔭 Currently working on a major project focused on developing scalable web application.
 - 🌱 Expanding my expertise in Data Structures & Algorithms (DSA) with Java and the MERN stack, including Node.js and React.
 - 💬 Feel free to ask me about API debugging or best practices in web development.
 - 🚀 Aspiring to contribute to open-source projects and enhance my problem-solving skills.
